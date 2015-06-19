@@ -13,5 +13,5 @@
 #
 #kubogen join
 #
-
+# welcome kubogen-san!
 
